@@ -1,0 +1,24 @@
+========Backend ========
+Node.js
+npm run dev dentro pasta server
+
+
+npx knex migrate:latest --knexfile knexfile.ts migrate:latest
+
+npm run knex:migrate
+
+=======frontend======
+ReactJs
+
+npm start ou yarn start
+
+npm install react-icons
+npm install react-router-dom
+npm install @types/react-router-dom -D
+
+LatLng {lat: -22.86407543573931, lng: -43.28280687332154}
+
+
+mobile - ReactNative
+cd na pasta mobile.
+npm start
